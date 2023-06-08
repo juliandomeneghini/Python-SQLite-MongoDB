@@ -1,4 +1,4 @@
-# Python-SQLite-MongoDB
+#Integrando Python com SQLite e MongoDB
 
 # Integrado Python - SQLite com MongoDB
 Foi feito uma aplicação de integração com SQLite com base em um esquema relacional, por meio das classes usando SQLAlchemy.
